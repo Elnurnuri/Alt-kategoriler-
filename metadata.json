@@ -1,0 +1,8 @@
+{
+  "name": "Kategori \u0026 Alt Kategori ",
+  "description": "E-ticaret platformları için gelişmiş alt kategori vitrini, hiyerarşik filtreleme ve ürün keşif sayfası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
